@@ -1,2 +1,7 @@
-package com.barreraGermanDepencencyInjection;public class Coffee {
+package com.barreraGermanDepencencyInjection;
+
+public class Coffee {
+    public String drink(){
+        return "Great Coffe!!";
+    }
 }
